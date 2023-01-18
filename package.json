@@ -1,0 +1,17 @@
+{
+  "name": "video-conferncing-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    
+    
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    
+    "simple-peer": "^9.11.1",
+    "socket.io": "^4.5.4"
+    
+  }
+}
